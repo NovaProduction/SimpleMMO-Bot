@@ -8,10 +8,10 @@
 - Auto Wave
 
 ### Features to be Considered:
-- Auto-job (Not priority but can be done)
+- Auto-job (Not priority but can be done and was already done. Removed due to lack of usability.)
 - Auto PVP (Not priority)
 - Auto-Bank (I mostly do safe-mode so maybe)
-- Auto-Heal (I do safe mode so not really priorirt right now)
+- Auto-Heal (I do safe mode so not really priority right now)
 
 ### Requirements:
 - Chrome

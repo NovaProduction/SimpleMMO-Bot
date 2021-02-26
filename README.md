@@ -22,7 +22,7 @@
 - [Webdriver Manager](https://github.com/SergeyPirogov/webdriver_manager)
 
 ### Things to consider:
-- This does not handle the internal captcha system inside the gane although the bot detects if a captcha is shown and will promptly shut down until a command "reset" has been given.
+- This does not handle the internal captcha system inside the gane although the bot detects if a captcha is shown and will promptly shut down until a command "reset" has been given. You need to solve that captcha by yourself. Implementing an image recognition software on these types of application is a bad idea. I'm not gonna spend that much time on this.
 
 ### Instructions:
 This bot requires [Selenium](https://github.com/SeleniumHQ/selenium) to run.

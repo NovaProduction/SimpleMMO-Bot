@@ -284,7 +284,7 @@ class InGameFuctions():
             pass
         
 driver.get("https://web.simple-mmo.com/")
-startup().load_cookie(driver,'cookies.pkl')
+#startup().load_cookie(driver,'cookies.pkl') # Remove the # in this line after logging in the first time since i didn't set a good function to detect first login.
 startup().login()
 startup().file('read')
 

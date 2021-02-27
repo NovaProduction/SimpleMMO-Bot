@@ -1,13 +1,15 @@
 # Simple MMO Bot
 
+## Update: Got banned because I was stepping for too long. If you're gonna use this, only used for up to 12 hours per day. Make spaces in-between them like 3 4-hour sessions.
+
 ### Features:
 - Auto Step
 - Auto Mine, Fish, Salvaging and Cutting
 - Auto Battle
-- Auto PVE (To be added)
+- Auto PVE (To be added, not anymore)
 - Auto Wave
 
-### Features to be Considered:
+### Features to be Considered (before I got banned):
 - Auto-job (Not priority but can be done and was already done. Removed due to lack of usability.)
 - Auto PVP (Not priority)
 - Auto-Bank (I mostly do safe-mode so maybe)
@@ -35,7 +37,7 @@ This bot also requires [Webdriver Manager](https://github.com/SergeyPirogov/webd
 python -m pip install webdriver-manager
 ```
 
-Running this will be as simple as opening main.py. After the first login, no other login will be needed in the future. In the case of changing accounts, redownload the package to reset.
+This will require that you login every time since I got banned and I can't update.
 
 # Disclaimer:
 I was and never shall be responsible for any ban or punishment brought by using this tool. This is for educational purposes only. No harm was intended in the making of this tool.

@@ -44,3 +44,15 @@ This will require that you login every time since I got banned and I can't updat
 
 # Disclaimer:
 I was and never shall be responsible for any ban or punishment brought by using this tool. This is for educational purposes only. No harm was intended in the making of this tool.
+
+# Usage:
+- Download and install python
+- search for command line and type python -m pin install selenium
+- search for command line and type python -m pin install WEbdriver-manager
+- Download one of the release zip.
+- Extract
+- Open
+- Login
+- Let it go.
+- There should be captcha sometimes. Return to the game using a seperate chrome tab or something then type reset on the CLI
+- The bot should automatically reset itself

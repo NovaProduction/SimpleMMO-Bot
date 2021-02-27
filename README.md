@@ -2,6 +2,8 @@
 
 ## Update: Got banned because I was stepping for too long. If you're gonna use this, only used for up to 12 hours per day. Make spaces in-between them like 3 4-hour sessions.
 
+## To the Devs: FU
+
 ### Features:
 - Auto Step
 - Auto Mine, Fish, Salvaging and Cutting

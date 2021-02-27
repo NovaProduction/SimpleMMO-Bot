@@ -100,8 +100,7 @@ class InGameFuctions():
             # self.Job()
             global botDetected
             if botDetected == 1:
-                global timeEnd
-                global dateEnd
+                global timeEnd, dateEnd, timeStart, dateStart
                 timeEnd =datetime.now().strftime("%H:%M:%S")
                 dateEnd =datetime.now().strftime("%B:%d:%Y")
                 break
@@ -114,6 +113,8 @@ class InGameFuctions():
             print('Type "reset" to restart the bot')
             if input() == 'reset':
                   botDetected = 0
+                  timeStart = datetime.now().strftime("%H:%M:%S")
+                  dateStart = datetime.now().strftime("%B:%d:%Y")
                   InGameFuctions()
 
     def Steps(self):
@@ -191,7 +192,7 @@ class InGameFuctions():
             global countx
             if countx % 50 == 0:
                 time.sleep(randomize().randomDelay(1, 1))
-                #self.QuestTest()
+                self.QuestTest()
         except:
             pass
     

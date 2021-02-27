@@ -1,6 +1,7 @@
 # Simple MMO Bot
 
 ## Update: Got banned because I was stepping for too long. If you're gonna use this, only used for up to 12 hours per day. Make spaces in-between them like 3 4-hour sessions.
+## I did 4000 steps in one day. Apparently that was illegal. You can still use this but keep your steps below 1000 per day.
 
 ## To the Devs: FU
 
